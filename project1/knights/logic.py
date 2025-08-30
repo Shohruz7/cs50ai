@@ -3,6 +3,7 @@ import itertools
 
 class Sentence():
 
+
     def evaluate(self, model):
         """Evaluates the logical sentence."""
         raise Exception("nothing to evaluate")
